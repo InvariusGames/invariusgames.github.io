@@ -50,8 +50,8 @@ img /*Code for the image on website*/
 {   display:grid;
     margin-left: auto;
     margin-right: auto;
-    width:18%;
-    height:25%;
+    width:25%;
+    height:28%;
     border-style:ridge;
     border-color: yellow;
 }
