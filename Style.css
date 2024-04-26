@@ -82,7 +82,7 @@ body  /* code for the size of the entire page itself */
 display:block;
 justify-content: center;
 align-items: center;
-height:400px;
+height:200px;
 background-image:linear-gradient(rgb(27, 8, 53),rgb(148, 42, 0) 250%);
 background-repeat:no-repeat;
 }
