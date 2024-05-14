@@ -142,8 +142,8 @@ p{ /*all paragraph text graphics */
 
 .slidershow /*code for the image slider placement on page */
 {
-    width:1050px;
-    height:790px;
+    width:950px;
+    height:670px;
     overflow:hidden;
     align-content: center;
     border-color: yellow;
